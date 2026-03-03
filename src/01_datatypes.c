@@ -37,6 +37,8 @@ int main(void) {
     printf("\nEnter your age: ");
     // TODO: scanf for age
 
+    scanf("%i",&age);
+
     printf("Enter your height in meters (e.g., 1.72): ");
     // TODO: scanf for height
 
